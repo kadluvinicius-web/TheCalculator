@@ -1,0 +1,43 @@
+---------------------------------------------GERAL---------------------------------------------
+
+- Criador de questões (+1.0)
+- Desafios (+1.0)
+- Conquistas (+1.0)
+- Recompensas (+1.0)
+- Loja (+1.0)
+- Moedas do jogo (+1.0)
+- Personalização (+1.0)
+- Multiplayer (+1.0)
+- Display (+1.0)
+- Música (+1.0)
+- Som (+1.0)
+- Funções (+1.0)
+- Matemática avançada (+1.0)
+- Geometria (+1.0)
+- Idiomas (+1.0)
+- Desbloqueio de novos modos (+1.0)
+- Mais mini games (+1.0)
+- Poder escolher quantos números por pergunta (+1.0)
+- Melhorar a escrita do jogo (+1.0)
+- Dicas (+1.0)
+
+----------------------------------------------0.7----------------------------------------------
+
+- Adicionar novo modo (Fantasma) V
+- Liberdade para criar as configurações que quiser V
+- Poder escolher os modos que quiser nos modos especiais V
+
+----------------------------------------------0.8----------------------------------------------
+
+- Adicionar novo modo (Expressões)
+- Como jogar
+- Melhoria nas Novidades
+- Aumentar a possibilidade de entradas
+
+----------------------------------------------0.9----------------------------------------------
+
+- Adicionar novo modo (Sequencial) [EM ABERTO]
+- Créditos
+- Números de casas decimais exclusivos (se for 2 casas decimais, serão apenas contas de 2 casas decimais)
+
+-----------------------------------------------------------------------------------------------
